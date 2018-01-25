@@ -44,7 +44,66 @@
                 "category": "Gradiant"
 			},
             {
-				
+
+				"author": "Liyas Thomas",
+				"url": "https://image.ibb.co/mb29uG/angle_1.png",
+				"thumbUrl": "https://image.ibb.co/mb29uG/angle_1.png",
+				"name": "Angle",
+                "category": "Angle"
+			},
+            {
+				"author": "Liyas Thomas",
+				"url": "https://image.ibb.co/iXt4Tb/angle_5.png",
+				"thumbUrl": "https://image.ibb.co/iXt4Tb/angle_5.png",
+				"name": "Angle",
+                "category": "Angle"
+			},
+            {
+				"author": "Liyas Thomas",
+				"url": "https://image.ibb.co/c8KB8b/angle_2.png",
+				"thumbUrl": "https://image.ibb.co/c8KB8b/angle_2.png",
+				"name": "Angle",
+                "category": "Angle"
+			},
+            {
+			    "author": "Liyas Thomas",
+				"url": "https://image.ibb.co/meCyob/angle_3.png",
+				"thumbUrl": "https://image.ibb.co/meCyob/angle_3.png",
+				"name": "Angle",
+                "category": "Angle"
+			},
+            {
+			  "author": "Liyas Thomas",
+				"url": "https://image.ibb.co/guUdob/angle_4.png",
+				"thumbUrl": "https://image.ibb.co/guUdob/angle_4.png",
+				"name": "Angle",
+                "category": "Angle"
+			},
+            {
+
+			  "author": "Mohan Sekar",
+				"url": "https://i.imgur.com/Un1NU4t",
+				"thumbUrl": "https://i.imgur.com/Un1NU4t",
+				"name": "Colorful",
+                "category": "Colorful"
+			},
+            {
+			
+			  "author": "Anand Ramachandran",
+				"url": "https://image.ibb.co/ePk7gw/colorfull.png",
+				"thumbUrl": "https://image.ibb.co/ePk7gw/colorfull.png",
+				"name": "Colorful",
+                "category": "Colorful"
+			},
+            {
+
+			  "author": "Mohan Sekar",
+				"url": "https://image.ibb.co/mXcsEG/dark.png",
+				"thumbUrl": "https://image.ibb.co/mXcsEG/dark.png",
+				"name": "Dark",
+                "category": "Dark"
+			},
+            {		
                 "author":"Test",
                 "url": "https://porting-team.ru/wp-content/uploads/2017/09/flowers_peonies_bicycle_hand_117104_5472x3648.jpg",
                 "thumbUrl": "https://porting-team.ru/wp-content/uploads/2017/09/flowers_peonies_bicycle_hand_117104_5472x3648.jpg",
